@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import check from '../../public/assets/Check.svg'
+import check from '../../public/assets/check.svg'
 
 function Pricing() {
   return (
